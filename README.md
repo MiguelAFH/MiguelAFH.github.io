@@ -1,48 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your GitHub Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
+# Your Project Name
 
-        header {
-            background-color: #f1f1f1;
-            padding: 10px;
-            text-align: right;
-        }
+Welcome to the main repository of your project. Below are links to different subrepositories:
 
-        header a {
-            margin-right: 10px;
-            text-decoration: none;
-            color: #333;
-            padding: 5px 10px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-        }
+- [Repo 1](https://github.com/your-username/repo1)
+- [Repo 2](https://github.com/your-username/repo2)
+<!-- Add more links as needed -->
 
-        main {
-            padding: 20px;
-        }
-    </style>
-</head>
-<body>
+## Description
 
-<header>
-    <a href="https://github.com/your-username/repo1">Repo 1</a>
-    <a href="https://github.com/your-username/repo2">Repo 2</a>
-    <!-- Add more buttons as needed -->
-</header>
+Provide a brief description of your project here.
 
-<main>
-    <h1>Welcome to Your GitHub Page</h1>
-    <!-- Add your content here -->
-</main>
+## Installation
 
-</body>
-</html>
+Include instructions on how to install or use your project.
+
+## Usage
+
+Explain how users can use your project and any important features.
+
+## Contributing
+
+If you would like others to contribute to your project, include guidelines on how to do so.
+
+## License
+
+Specify the license for your project.
+
